@@ -1,0 +1,24 @@
+family_id	analysis	correction_unit	models_sharing_correction	n_tests	result_file
+F01	Primary PDAC association models	Within cohort	Two glyco layers x five outcomes: myCAF, POSTN-removed myCAF, endothelial, CAF/stroma, and stromal-immune composite	10	primary_135_models.tsv
+F02	All-tumor histology sensitivity models	Within cohort	Two glyco layers x five outcomes: myCAF, POSTN-removed myCAF, endothelial, CAF/stroma, and stromal-immune composite	10	all_140_models.tsv
+F03	Feature-detection models	Within glyco layer	All converged feature-detection models within one glyco layer	1468 peptide; 1548 site	feature_detection_models.tsv
+F04	Feature-coverage threshold sensitivity	Across both layers, thresholds, and outcomes	Two layers x five observation thresholds x five outcomes	50	coverage_threshold_models.tsv
+F05	Residualization and detection-weighting sensitivity	Across both layers, methods, and outcomes	Two layers x three score methods x five outcomes	30	residual_method_models.tsv
+F06	Measured-feature burden models	Across both glyco layers	Two glyco-layer burden tests	2	sample_detection_burden_models.tsv
+F07	Glycan-composition association models	Across both layers, classes, and outcomes	Two layers x six glycan classes x five outcomes	60	glycan_composition_class_models.tsv
+F08	Feature-level association models	Within each layer-outcome pair	All retained features within one layer-outcome correction family	1735 per peptide-outcome family; 1810 per site-outcome family	glycosite_feature_coherence_models.tsv
+F09	CAF-subtype association models	Across both layers and CAF subtypes	Two layers x conventional myCAF, iCAF, apCAF, and POSTN-removed myCAF	8	caf_subtype_models.tsv
+F10	POSTN-overlap sensitivity	Across both layers, predictor variants, and phenotype definitions	Two layers x two predictor variants x three phenotype definitions	12	postn_feature_removed_predictor_models.tsv
+F11	TMT11 plex sensitivity	Within model specification	Two layers x two model types x three outcomes	12	tmt_plex_fixed_effect_models.tsv
+F12	Glycosylation-enzyme association models	Within each layer-glycan-class pair	Enzymes within one layer-glycan-class correction family	3, 4, or 6 per layer-class family; 26 total	glyco_enzyme_models.tsv
+F13	TCGA bulk RNA context	Across all RNA outcomes	Frozen candidate module versus eleven RNA outcomes	11	tcga_paad_bulk_validation_models.tsv
+F14	GeoMx within-patient score correlations	Across all score correlations	Candidate ECM score versus CAF/stroma, myCAF, endothelial, and immune scores	4	geomx_within_patient_correlations.tsv
+F15	Candidate integration: TCGA gene-level models	Across all candidate genes and RNA outcomes	Thirty-six candidate genes x four RNA outcomes	144	candidate_tcga_gene_models.tsv
+F16	Candidate integration: GeoMx gene-level enrichment	Across all candidate genes	Twenty-eight candidate-gene CAF-minus-epithelial tests	28	candidate_geomx_gene_enrichment.tsv
+F17	GSE202051 patient-signature associations	Across 17 author-provided signatures	Seventeen patient-stratified signature tests	17	gse202051_signature_correlation_summary.tsv
+F18	GSE202051 patient-compartment contrasts	Across three CAF-versus-compartment contrasts	CAF-minus-epithelial, CAF-minus-immune, and CAF-minus-endothelial tests	3	gse202051_cell_context_contrasts.tsv
+F19	Continuous Cox survival models	Within Cox model specification	Two glyco layers within each Cox model specification	2 per Cox specification; 6 total	survival_continuous_models.tsv
+F20	Median-split log-rank comparisons	Across both glyco layers	Two glyco-layer median-split log-rank tests	2	survival_km_summary.tsv
+F21	Visium CD8-NK neighborhood tests	Across abundance and nearest-distance tests	Two section-level neighborhood metrics	2	gse272362_cd8nk_neighborhood_summary.tsv
+F22	CellChat candidate-set enrichment	Across patient-recipient enrichment tests	Thirty-nine eligible patient-recipient enrichment tests	39	gse154778_candidate_ecm_enrichment_by_patient.tsv
+F23	Detection-IPW parameter sensitivity	Across both layers, parameter specifications, and outcomes	Two layers x four probability/weight specifications x myCAF and CAF/stroma	16	detection_ipw_parameter_sensitivity.tsv

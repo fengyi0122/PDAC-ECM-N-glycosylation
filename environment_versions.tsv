@@ -1,0 +1,16 @@
+software	version
+R	4.5.3
+data.table	1.18.2.1
+survival	3.8.6
+readxl	1.4.5
+Matrix	1.7.5
+FNN	1.1.4.1
+CellChat	2.2.0.9001
+digest	0.6.39
+SeuratObject	5.3.0
+Python	3.12.10
+anndata	0.12.10
+pandas	2.3.3
+numpy	2.4.3
+scipy	1.17.1
+statsmodels	0.14.6

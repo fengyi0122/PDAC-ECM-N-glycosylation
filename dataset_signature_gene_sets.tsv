@@ -1,0 +1,225 @@
+dataset	analysis_context	signature	display_name	order_index	gene	definition_type
+CPTAC-PDAC	Auxiliary RNA context	checkpoint	Immune checkpoint	1	PDCD1	Reconstructed from listed genes
+CPTAC-PDAC	Auxiliary RNA context	checkpoint	Immune checkpoint	2	CD274	Reconstructed from listed genes
+CPTAC-PDAC	Auxiliary RNA context	checkpoint	Immune checkpoint	3	CTLA4	Reconstructed from listed genes
+CPTAC-PDAC	Auxiliary RNA context	checkpoint	Immune checkpoint	4	LAG3	Reconstructed from listed genes
+CPTAC-PDAC	Auxiliary RNA context	checkpoint	Immune checkpoint	5	HAVCR2	Reconstructed from listed genes
+CPTAC-PDAC	Auxiliary RNA context	checkpoint	Immune checkpoint	6	TIGIT	Reconstructed from listed genes
+CPTAC-PDAC	CAF subtype analysis	apCAF	Antigen-presenting CAF	1	CD74	Reconstructed from listed genes
+CPTAC-PDAC	CAF subtype analysis	apCAF	Antigen-presenting CAF	2	HLA-DRA	Reconstructed from listed genes
+CPTAC-PDAC	CAF subtype analysis	apCAF	Antigen-presenting CAF	3	HLA-DPA1	Reconstructed from listed genes
+CPTAC-PDAC	CAF subtype analysis	apCAF	Antigen-presenting CAF	4	HLA-DPB1	Reconstructed from listed genes
+CPTAC-PDAC	CAF subtype analysis	apCAF	Antigen-presenting CAF	5	HLA-DQA1	Reconstructed from listed genes
+CPTAC-PDAC	CAF subtype analysis	apCAF	Antigen-presenting CAF	6	HLA-DQB1	Reconstructed from listed genes
+CPTAC-PDAC	CAF subtype analysis	iCAF	Inflammatory CAF	1	IL6	Reconstructed from listed genes
+CPTAC-PDAC	CAF subtype analysis	iCAF	Inflammatory CAF	2	CXCL12	Reconstructed from listed genes
+CPTAC-PDAC	CAF subtype analysis	iCAF	Inflammatory CAF	3	CFD	Reconstructed from listed genes
+CPTAC-PDAC	CAF subtype analysis	iCAF	Inflammatory CAF	4	HAS1	Reconstructed from listed genes
+CPTAC-PDAC	CAF subtype analysis	iCAF	Inflammatory CAF	5	CXCL14	Reconstructed from listed genes
+CPTAC-PDAC	CAF subtype analysis	iCAF	Inflammatory CAF	6	PDGFRA	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	CAF_stroma_composite	CAF/stroma component	1	COL1A1	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	CAF_stroma_composite	CAF/stroma component	2	COL1A2	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	CAF_stroma_composite	CAF/stroma component	3	COL3A1	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	CAF_stroma_composite	CAF/stroma component	4	DCN	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	CAF_stroma_composite	CAF/stroma component	5	LUM	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	CAF_stroma_composite	CAF/stroma component	6	FAP	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	CAF_stroma_composite	CAF/stroma component	7	ACTA2	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	CAF_stroma_composite	CAF/stroma component	8	PDGFRB	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	CD8_T_cell	CD8 T cells	1	CD8A	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	CD8_T_cell	CD8 T cells	2	CD8B	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	CD8_T_cell	CD8 T cells	3	TRAC	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	CD8_T_cell	CD8 T cells	4	CD3D	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	CD8_T_cell	CD8 T cells	5	CD3E	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	TAM_M2	TAM/M2	1	CD68	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	TAM_M2	TAM/M2	2	CD163	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	TAM_M2	TAM/M2	3	MRC1	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	TAM_M2	TAM/M2	4	MSR1	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	TAM_M2	TAM/M2	5	CSF1R	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	TAM_M2	TAM/M2	6	C1QA	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	TAM_M2	TAM/M2	7	C1QB	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	TAM_M2	TAM/M2	8	C1QC	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	Treg	Treg	1	FOXP3	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	Treg	Treg	2	IL2RA	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	Treg	Treg	3	CTLA4	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	Treg	Treg	4	CCR8	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	Treg	Treg	5	IKZF2	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	Treg	Treg	6	TIGIT	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	cytotoxicity	Cytotoxicity	1	GZMA	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	cytotoxicity	Cytotoxicity	2	GZMB	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	cytotoxicity	Cytotoxicity	3	PRF1	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	cytotoxicity	Cytotoxicity	4	NKG7	Reconstructed from listed genes
+CPTAC-PDAC	Exploratory stromal-immune composite	cytotoxicity	Cytotoxicity	5	GNLY	Reconstructed from listed genes
+CPTAC-PDAC	Post-selection overlap sensitivity	myCAF_no_POSTN	POSTN-removed myCAF	1	ACTA2	Reconstructed from listed genes
+CPTAC-PDAC	Post-selection overlap sensitivity	myCAF_no_POSTN	POSTN-removed myCAF	2	TAGLN	Reconstructed from listed genes
+CPTAC-PDAC	Post-selection overlap sensitivity	myCAF_no_POSTN	POSTN-removed myCAF	3	MYL9	Reconstructed from listed genes
+CPTAC-PDAC	Post-selection overlap sensitivity	myCAF_no_POSTN	POSTN-removed myCAF	4	COL1A1	Reconstructed from listed genes
+CPTAC-PDAC	Post-selection overlap sensitivity	myCAF_no_POSTN	POSTN-removed myCAF	5	COL1A2	Reconstructed from listed genes
+CPTAC-PDAC	Primary association outcomes	CAF_stroma	CAF/stroma	1	COL1A1	Reconstructed from listed genes
+CPTAC-PDAC	Primary association outcomes	CAF_stroma	CAF/stroma	2	COL1A2	Reconstructed from listed genes
+CPTAC-PDAC	Primary association outcomes	CAF_stroma	CAF/stroma	3	COL3A1	Reconstructed from listed genes
+CPTAC-PDAC	Primary association outcomes	CAF_stroma	CAF/stroma	4	DCN	Reconstructed from listed genes
+CPTAC-PDAC	Primary association outcomes	CAF_stroma	CAF/stroma	5	LUM	Reconstructed from listed genes
+CPTAC-PDAC	Primary association outcomes	CAF_stroma	CAF/stroma	6	FAP	Reconstructed from listed genes
+CPTAC-PDAC	Primary association outcomes	CAF_stroma	CAF/stroma	7	PDGFRB	Reconstructed from listed genes
+CPTAC-PDAC	Primary association outcomes	endothelial	Endothelial	1	PECAM1	Reconstructed from listed genes
+CPTAC-PDAC	Primary association outcomes	endothelial	Endothelial	2	VWF	Reconstructed from listed genes
+CPTAC-PDAC	Primary association outcomes	endothelial	Endothelial	3	KDR	Reconstructed from listed genes
+CPTAC-PDAC	Primary association outcomes	endothelial	Endothelial	4	EMCN	Reconstructed from listed genes
+CPTAC-PDAC	Primary association outcomes	endothelial	Endothelial	5	RAMP2	Reconstructed from listed genes
+CPTAC-PDAC	Primary association outcomes	endothelial	Endothelial	6	ESAM	Reconstructed from listed genes
+CPTAC-PDAC	Primary association outcomes	myCAF	Conventional myCAF	1	ACTA2	Reconstructed from listed genes
+CPTAC-PDAC	Primary association outcomes	myCAF	Conventional myCAF	2	TAGLN	Reconstructed from listed genes
+CPTAC-PDAC	Primary association outcomes	myCAF	Conventional myCAF	3	MYL9	Reconstructed from listed genes
+CPTAC-PDAC	Primary association outcomes	myCAF	Conventional myCAF	4	COL1A1	Reconstructed from listed genes
+CPTAC-PDAC	Primary association outcomes	myCAF	Conventional myCAF	5	COL1A2	Reconstructed from listed genes
+CPTAC-PDAC	Primary association outcomes	myCAF	Conventional myCAF	6	POSTN	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	B_Plasma	B/plasma	1	MS4A1	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	B_Plasma	B/plasma	2	CD79A	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	B_Plasma	B/plasma	3	CD79B	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	B_Plasma	B/plasma	4	MZB1	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	B_Plasma	B/plasma	5	JCHAIN	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	CAF	CAF	1	COL1A1	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	CAF	CAF	2	COL1A2	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	CAF	CAF	3	COL3A1	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	CAF	CAF	4	DCN	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	CAF	CAF	5	LUM	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	CAF	CAF	6	FAP	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	CAF	CAF	7	ACTA2	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	CAF	CAF	8	PDGFRB	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	CAF	CAF	9	TAGLN	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	CAF	CAF	10	MYL9	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	Endothelial	Endothelial	1	PECAM1	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	Endothelial	Endothelial	2	VWF	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	Endothelial	Endothelial	3	KDR	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	Endothelial	Endothelial	4	CDH5	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	Endothelial	Endothelial	5	CLDN5	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	Endothelial	Endothelial	6	RAMP2	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	Epithelial	Epithelial	1	EPCAM	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	Epithelial	Epithelial	2	KRT8	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	Epithelial	Epithelial	3	KRT18	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	Epithelial	Epithelial	4	KRT19	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	Epithelial	Epithelial	5	MSLN	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	Epithelial	Epithelial	6	CEACAM6	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	Epithelial	Epithelial	7	MUC1	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	Myeloid	Myeloid	1	LYZ	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	Myeloid	Myeloid	2	LST1	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	Myeloid	Myeloid	3	CD68	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	Myeloid	Myeloid	4	C1QA	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	Myeloid	Myeloid	5	C1QB	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	Myeloid	Myeloid	6	CSF1R	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	Myeloid	Myeloid	7	AIF1	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	T_NK	T/NK	1	CD3D	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	T_NK	T/NK	2	CD3E	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	T_NK	T/NK	3	TRAC	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	T_NK	T/NK	4	CD8A	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	T_NK	T/NK	5	NKG7	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	T_NK	T/NK	6	GNLY	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	T_NK	T/NK	7	PRF1	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	candidate_ecm	Frozen six-gene candidate ECM program	1	POSTN	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	candidate_ecm	Frozen six-gene candidate ECM program	2	MXRA5	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	candidate_ecm	Frozen six-gene candidate ECM program	3	PXDN	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	candidate_ecm	Frozen six-gene candidate ECM program	4	MFAP4	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	candidate_ecm	Frozen six-gene candidate ECM program	5	LTBP2	Reconstructed from listed genes
+GSE154778	Broad single-cell localization	candidate_ecm	Frozen six-gene candidate ECM program	6	TNC	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	CAF_stroma	CAF/stroma	1	COL1A1	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	CAF_stroma	CAF/stroma	2	COL1A2	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	CAF_stroma	CAF/stroma	3	COL3A1	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	CAF_stroma	CAF/stroma	4	DCN	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	CAF_stroma	CAF/stroma	5	LUM	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	CAF_stroma	CAF/stroma	6	FAP	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	CAF_stroma	CAF/stroma	7	ACTA2	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	CAF_stroma	CAF/stroma	8	PDGFRB	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	candidate_ecm	Frozen six-gene candidate ECM program	1	POSTN	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	candidate_ecm	Frozen six-gene candidate ECM program	2	MXRA5	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	candidate_ecm	Frozen six-gene candidate ECM program	3	PXDN	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	candidate_ecm	Frozen six-gene candidate ECM program	4	MFAP4	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	candidate_ecm	Frozen six-gene candidate ECM program	5	LTBP2	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	candidate_ecm	Frozen six-gene candidate ECM program	6	TNC	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	endothelial	Endothelial	1	PECAM1	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	endothelial	Endothelial	2	VWF	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	endothelial	Endothelial	3	KDR	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	endothelial	Endothelial	4	CDH5	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	endothelial	Endothelial	5	ICAM1	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	endothelial	Endothelial	6	VCAM1	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	endothelial	Endothelial	7	SELE	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	immune	Immune	1	PTPRC	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	immune	Immune	2	CD3D	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	immune	Immune	3	CD3E	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	immune	Immune	4	CD8A	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	immune	Immune	5	CD68	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	immune	Immune	6	LST1	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	immune	Immune	7	NKG7	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	myCAF	Conventional myCAF	1	ACTA2	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	myCAF	Conventional myCAF	2	TAGLN	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	myCAF	Conventional myCAF	3	MYL9	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	myCAF	Conventional myCAF	4	COL1A1	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	myCAF	Conventional myCAF	5	COL1A2	Reconstructed from listed genes
+GSE199102	GeoMx compartment analysis	myCAF	Conventional myCAF	6	POSTN	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	CAF_stroma	CAF/stroma	1	COL1A1	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	CAF_stroma	CAF/stroma	2	COL1A2	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	CAF_stroma	CAF/stroma	3	COL3A1	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	CAF_stroma	CAF/stroma	4	DCN	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	CAF_stroma	CAF/stroma	5	LUM	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	CAF_stroma	CAF/stroma	6	FAP	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	CAF_stroma	CAF/stroma	7	ACTA2	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	CAF_stroma	CAF/stroma	8	PDGFRB	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	CD8_T_cell	CD8 T cells	1	CD8A	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	CD8_T_cell	CD8 T cells	2	CD8B	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	CD8_T_cell	CD8 T cells	3	TRAC	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	CD8_T_cell	CD8 T cells	4	CD3D	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	CD8_T_cell	CD8 T cells	5	CD3E	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	TAM_M2	TAM/M2	1	CD68	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	TAM_M2	TAM/M2	2	CD163	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	TAM_M2	TAM/M2	3	MRC1	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	TAM_M2	TAM/M2	4	MSR1	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	TAM_M2	TAM/M2	5	CSF1R	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	TAM_M2	TAM/M2	6	C1QA	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	TAM_M2	TAM/M2	7	C1QB	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	TAM_M2	TAM/M2	8	C1QC	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	Treg	Treg	1	FOXP3	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	Treg	Treg	2	IL2RA	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	Treg	Treg	3	CTLA4	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	Treg	Treg	4	CCR8	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	Treg	Treg	5	IKZF2	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	Treg	Treg	6	TIGIT	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	candidate_ecm	Frozen six-gene candidate ECM program	1	POSTN	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	candidate_ecm	Frozen six-gene candidate ECM program	2	MXRA5	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	candidate_ecm	Frozen six-gene candidate ECM program	3	PXDN	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	candidate_ecm	Frozen six-gene candidate ECM program	4	MFAP4	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	candidate_ecm	Frozen six-gene candidate ECM program	5	LTBP2	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	candidate_ecm	Frozen six-gene candidate ECM program	6	TNC	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	checkpoint	Immune checkpoint	1	PDCD1	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	checkpoint	Immune checkpoint	2	CD274	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	checkpoint	Immune checkpoint	3	CTLA4	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	checkpoint	Immune checkpoint	4	LAG3	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	checkpoint	Immune checkpoint	5	HAVCR2	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	checkpoint	Immune checkpoint	6	TIGIT	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	cytotoxicity	Cytotoxicity	1	GZMA	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	cytotoxicity	Cytotoxicity	2	GZMB	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	cytotoxicity	Cytotoxicity	3	PRF1	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	cytotoxicity	Cytotoxicity	4	NKG7	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	cytotoxicity	Cytotoxicity	5	GNLY	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	endothelial	Endothelial	1	PECAM1	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	endothelial	Endothelial	2	VWF	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	endothelial	Endothelial	3	KDR	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	endothelial	Endothelial	4	CDH5	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	endothelial	Endothelial	5	ICAM1	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	endothelial	Endothelial	6	VCAM1	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	endothelial	Endothelial	7	SELE	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	iCAF	Inflammatory CAF	1	IL6	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	iCAF	Inflammatory CAF	2	CXCL12	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	iCAF	Inflammatory CAF	3	CFD	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	iCAF	Inflammatory CAF	4	HAS1	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	iCAF	Inflammatory CAF	5	CXCL14	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	iCAF	Inflammatory CAF	6	PDGFRA	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	myCAF	Conventional myCAF	1	ACTA2	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	myCAF	Conventional myCAF	2	TAGLN	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	myCAF	Conventional myCAF	3	MYL9	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	myCAF	Conventional myCAF	4	COL1A1	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	myCAF	Conventional myCAF	5	COL1A2	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	myCAF	Conventional myCAF	6	POSTN	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	myCAF_no_POSTN	POSTN-removed myCAF	1	ACTA2	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	myCAF_no_POSTN	POSTN-removed myCAF	2	TAGLN	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	myCAF_no_POSTN	POSTN-removed myCAF	3	MYL9	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	myCAF_no_POSTN	POSTN-removed myCAF	4	COL1A1	Reconstructed from listed genes
+TCGA-PAAD	Bulk RNA context	myCAF_no_POSTN	POSTN-removed myCAF	5	COL1A2	Reconstructed from listed genes

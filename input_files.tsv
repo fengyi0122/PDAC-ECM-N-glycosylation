@@ -1,0 +1,15 @@
+kind	dataset	relative_path	source_url	bytes	sha256
+bundled	Matrisome_Project	resources/matrisome_experimental_current.tsv	https://sites.google.com/uic.edu/matrisome/home	31317	d6a372868dd70f03af8c82608e1822df7339372526ce8e824ae77eba47ee06a4
+cptac	CPTAC-PDAC	clinical_table_140.tsv	https://pdc.cancer.gov/pdc/study/PDC000272	65283	f313d026b50d55adefb327e4f953a8e32c43e7a7f99b0e3575a7464878276223
+cptac	CPTAC-PDAC	proteomics_gene_level_MD_abundance_tumor.cct	https://pdc.cancer.gov/pdc/study/PDC000272	22062573	41c6b96da709b76d92142f0590d25005ae6d79d52242449410801250a6ff0d88
+cptac	CPTAC-PDAC	mRNA_RSEM_UQ_log2_Tumor.cct	https://pdc.cancer.gov/pdc/study/PDC000272	55217164	a1d4c16bd6ae65183ba108efdbc39241a829b9c47941cc853d434d9671cb7809
+cptac	CPTAC-PDAC	N-glycoproteomics_peptide_level_ratio_tumor.cct	https://pdc.cancer.gov/pdc/study/PDC000272	32858411	fa9719951ffe6faec5e7f57b9971a0d2037fc1910cb5b4ad5e8310f14e508dc0
+cptac	CPTAC-PDAC	N-glycoproteomics_Site_level_ratio_tumor.cct	https://pdc.cancer.gov/pdc/study/PDC000272	35908082	e1eb820dcaaf83566c7ec9505a867404cfc0e9875f0a84da90593d858066945e
+cptac	CPTAC-PDAC	S061_CPTAC_PDA_TMT11_Label_to_Sample_Mapping_File_JHU_r1_Feb2021.xlsx	https://pdc.cancer.gov/pdc/study/PDC000272	29543	66000f71f2aa0eafd82508209c79ce4ae2d0170950067720a8bd613bd8efec82
+tcga_paad	UCSC_Xena	TCGA-PAAD.star_tpm.tsv	https://gdc.xenahubs.net/download/TCGA-PAAD.star_tpm.tsv.gz	134138821	72ffde8691fd92fec5c6275d9e6bb0227eb642f9c00c279f2604e55d4a4847dd
+tcga_paad	UCSC_Xena	gencode.v36.annotation.gtf.gene.probemap	https://gdc.xenahubs.net/download/gencode.v36.annotation.gtf.gene.probemap	3206945	f027752d663b1da74f4113998bf008e6ebecfa3732607513e027bb6eb1f635b5
+geo_pdac	GSE154778	GSE154778_dgeMtx.csv.gz	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE154778	30110516	ecfe903e5095dc52244c54d0abeeddf0d7fbb7ec0bbd39de59707efaa09dad08
+geo_pdac	GSE202051	GSE202051_totaldata-final-toshare.h5ad	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE202051	8321198912	5759f1c1d183134b69133c36d42fac8cc56d6dc76ae6b5bb2f16a078680bdacf
+geo_pdac	GSE199102	GSE199102_hPDAC_WTA_20210222T2101_Q3Norm_TargetCountMatrix.txt.gz	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE199102	23343836	095a1972716d0d50b92f9523d33b13aa82176cf7d33ff415a0b8820fd35d957f
+geo_pdac	GSE199102	GSE199102_Broad_PDAC_WTA_AllSamples_SegmentProperties.txt.gz	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE199102	70244	0c59e338181851d0c85cb2501c98148813e7213e1e43ca3c9ba9bfa7d725fadc
+geo_pdac	GSE272362	Zenodo/PDAC_Updated.rds	https://zenodo.org/records/10712047	11638143468	c9ce00abd5ebb4ef7de7ee365e5317a0abef7b165230fc4859391aaadc536965
